@@ -10,9 +10,16 @@ We use two datasets in this paper
 In ./dataset folder, we've already collected valid links in Github Dataset. You can directly use the
 "./dataset/Github.txt". For the Twitter dataset, we provided a dataloader to read "./dataset/train.csv", which can also be used directly.
 
+## Prompts
+The prompts are available at `ex_G.py` and `ex_T.py`.
+- For Completion APIs, we directly send the prompts to the model.
+- For ChatCompletion APIs, we send the prompts as the first user message to the model.
+
+
 ## Usage
 Before running, please type your api key into ex_G.py and ex_T.py
-To test the accuracy and confidence for two datasets, you can run with following commands:
+
+To reproduce the accuracy and entropy in the paper, you can run with the following commands:
 
 `python ex_G.py`
 
