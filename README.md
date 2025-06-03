@@ -28,6 +28,7 @@ To reproduce the accuracy and entropy in the paper, you can run with the followi
 
 ## Citation
 If you found this code useful, please consider citing this paper.
+```
 @inproceedings{10.1145/3644815.3644950,
 author = {Ma, Wanqin and Yang, Chenyang and K\"{a}stner, Christian},
 title = {(Why) Is My Prompt Getting Worse? Rethinking Regression Testing for Evolving LLM APIs},
@@ -44,3 +45,4 @@ keywords = {large language models (LLM), regression testing},
 location = {Lisbon, Portugal},
 series = {CAIN '24}
 }
+```
