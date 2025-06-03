@@ -1,6 +1,5 @@
 # Introduction
-Experiment code for the CAIN 2024 short paper [(Why) Is My Prompt Getting Worse? Rethinking Regression Testing for Evolving LLM APIs](https://arxiv.org/abs/2311.11123)
-ACM version: In Proceeding.
+Experiment code for the CAIN 2024 short paper [(Why) Is My Prompt Getting Worse? Rethinking Regression Testing for Evolving LLM APIs](https://dl.acm.org/doi/abs/10.1145/3644815.3644950)
 
 ## Dataset
 We use two datasets in this paper
